@@ -36,7 +36,7 @@ public class Marking {
 				if (subjectChoices[i] >= 0 && subjectChoices[i] <= 7) u++;
 			}
 			if (u == num) break;
-			else 		System.out.println("\n※ 잘못된 입력입니다! ※\n");
+			else 		System.out.println("\n※ 잘못된 입력입니다! 1~8 사이의 숫자를 입력하세요! ※\n");
 		}
 
 		
