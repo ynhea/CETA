@@ -23,7 +23,7 @@ public class Marking {
 			System.out.print("✍ 채점 과목 개수 → ");
 			num = sc.nextInt();		// 과목 개수
 			if (num >= 1 && num <= 8) break;
-			else					  System.out.println("\n※ 잘못된 입력입니다! ※\n");
+			else					  System.out.println("\n※ 잘못된 입력입니다! 1~8 사이의 숫자를 입력하세요! ※\n");
 		}
 		
 		// 채점 과목 선택
