@@ -1,0 +1,8 @@
+A good way to make human-machine interaction more natural would be to develop a better metaphor.
+A computer metaphor is a familiar object or activity that your computer imitates with its commands, display arrangements, and behavior.
+The two main metaphors we have today are the desktop and the browser.
+In the desktop metaphor, the display screen mimics a typical desk; information is kept inside folders, which can be opened, closed, and slipped into other folders.
+With Web browsing, the metaphor is downtown window shopping; you gaze at various “storefronts,” see one you like, and (click) you enter.
+Inside, there are more options to browse, you choose another, and again you enter.
+Like a linguistic metaphor, the power of a good computer metaphor is that it makes a new system you don’t know behave like an old “system” with which you are familiar.
+This lets you use the new system and get useful results out of it easily, since you don’t have to struggle learning new concepts and commands.

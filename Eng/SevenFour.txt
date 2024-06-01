@@ -1,0 +1,9 @@
+When Galileo rolled the balls down the inclined plane, he didn’t merely look and see what happened.
+He very carefully measured the distance traveled and the time it took to travel that distance.
+From these measurements, he calculated the speed of travel. 
+What he came up with was a mathematical equation relating numerical quantities.
+We can imagine that when he observed the moons of Jupiter, he didn’t merely see some spots at various different places from night to night:
+he kept track of where the spots were, compared their positions from night to night, and perhaps did some calculations intended to compute what path they were traveling, to find out that their change in apparent position was consistent with their being bodies moving around Jupiter. 
+Similarly, in my hypothetical bird experiment I imagined myself as a budding junior scientist weighing the stuff I put into the cage and calculating percentages by weight of what was eaten.
+It’s obvious: numbers are important to science.
+Scientists measure and calculate; they don’t just observe.
