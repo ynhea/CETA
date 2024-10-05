@@ -29,7 +29,7 @@ public class Server {
 				receiveThread.start();
 				// run(): 호출스택이 생성되지 않아 쓰레드가 독립적으로 수행되지 않음 -> start()사용!
 			}
-		} catch (IOException e) { e.getStackTrace(); }
+		} catch (IOException e) { e.printStackTrace(); }
 	}
 }
 
@@ -53,7 +53,7 @@ class ReceiveThread extends Thread{
 			in = new BufferedReader(new InputStreamReader(socket.getInputStream()));
 			list.add(out);
 		} catch (IOException e) {
-			e.getStackTrace();
+			e.printStackTrace();
 		}
 	}
 	
@@ -83,7 +83,7 @@ class ReceiveThread extends Thread{
 			list.remove(out);
 			try {socket.close();}
 			catch (IOException e) { 
-				e.getStackTrace();
+				e.printStackTrace();
 			}
 		 }
 		System.out.println("[" + name +" 연결종료]");
